@@ -11,7 +11,7 @@
                 <cmd>В левом нижнем углу экрана в строке поиска рядом со значком <image
                         href="../img/start_icon.png" id="image_bjh_gsq_5pb"/>  (<b>Пуск</b>) и
                     начните вводить <b>Internet Explorer</b>.</cmd>
-                <stepresult>В меню <b>Пуск</b> отобразится соответствующий (см. изображение
+                <stepresult>В меню <b>Пуск</b> отобразится соответствующий пункт (см. изображение
                         ниже).<fig id="fig_r2m_15q_5pb">
                         <image href="../img/ie_selected.png" id="image_fzn_b5q_5pb"/>
                     </fig></stepresult>
