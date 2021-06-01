@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ie_02">
+    <title>Запуск из меню <b>Пуск</b></title>
+    <shortdesc>Вы можете запустить Internet Explorer, найдя браузер в меню <b>Пуск</b>.</shortdesc>
+    <taskbody>
+        <context>Чтобы запустить Internet Explorer из меню <b>Пуск</b>, выполните следующие
+            действия.</context>
+        <steps>
+            <step>
+                <cmd>Щёлкните на значке <image href="../img/start_icon.png" id="image_qhr_w5q_5pb"/>
+                        (<b>Пуск</b>) в левом нижнем углу экрана.</cmd>
+                <stepresult>Отобразится содержимое меню <b>Пуск </b>(см. изображение ниже).<fig
+                        id="fig_bcm_fwq_5pb">
+                        <image href="../img/start_menu.png" id="image_ej1_gwq_5pb"/>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>В списке меню слева выберите <b>Стандартные - Windows > Internet
+                    Explorer</b>.</cmd>
+                <info>
+                    <fig id="fig_l1v_cxq_5pb">
+                        <image href="../img/ie_manual_search.png" id="image_pks_dxq_5pb"/>
+                    </fig>
+                </info>
+                <stepresult>Окно браузера отобразится на рабочем столе.<fig id="fig_pd2_cxq_5pb">
+                        <image href="../img/ie_displayed.png" id="image_txg_kxq_5pb"/>
+                    </fig></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

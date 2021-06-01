@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Запуск Internet Explorer под Windows 10</title>
+    <topicref href="topics/topic/ie_intro.dita">
+        <topicref format="ditamap"/>
+    </topicref>
+    <topicref href="topics/topic/ie.dita">
+        <topicref href="topics/task/ie_01.dita"/>
+        <topicref href="topics/task/ie_02.dita"/>
+        <topicref href="topics/task/ie_03.dita"/>
+    </topicref>
+    <topicref href="topics/topic/ie_quicklaunch.dita">
+        <topicref href="topics/task/ie_quicklaunch_01.dita"/>
+        <topicref href="topics/task/ie_quicklaunch_02.dita"/>
+    </topicref>
+</map>

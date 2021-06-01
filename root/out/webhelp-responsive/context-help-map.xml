@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="ie_intro" path="topics/topic/ie_intro.html"/>
+   <appContext helpID="ie" path="topics/topic/ie.html"/>
+   <appContext helpID="ie_01" path="topics/task/ie_01.html"/>
+   <appContext helpID="ie_02" path="topics/task/ie_02.html"/>
+   <appContext helpID="ie_03" path="topics/task/ie_03.html"/>
+   <appContext helpID="ie_quicklaunch" path="topics/topic/ie_quicklaunch.html"/>
+   <appContext helpID="ie_quicklaunch_01" path="topics/task/ie_quicklaunch_01.html"/>
+   <appContext helpID="ie_quicklaunch_02" path="topics/task/ie_quicklaunch_02.html"/>
+</map>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ie_01">
+    <title>Запуск с помощью строки поиска</title>
+    <shortdesc>Вы можете запустить Internet Explorer с помощью строки поиска.</shortdesc>
+    <taskbody>
+        <context>Чтобы запустить Internet Explorer с помощью строки поиска, выполните следующие
+            действия.<p/></context>
+        <steps>
+            <step>
+                <cmd>В левом нижнем углу экрана в строке поиска рядом со значком <image
+                        href="../img/start_icon.png" id="image_bjh_gsq_5pb"/>  (<b>Пуск</b>) и
+                    начните вводить <b>Internet Explorer</b>.</cmd>
+                <stepresult>В меню <b>Пуск</b> отобразится соответствующий (см. изображение
+                        ниже).<fig id="fig_r2m_15q_5pb">
+                        <image href="../img/ie_selected.png" id="image_fzn_b5q_5pb"/>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>Щёлкните на пункте <b>Internet Explorer</b>.</cmd>
+                <stepresult>Окно браузера отобразится на рабочем столе.<fig id="fig_fyh_k5q_5pb">
+                        <image href="../img/ie_displayed.png" id="image_afv_k5q_5pb"/>
+                    </fig></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

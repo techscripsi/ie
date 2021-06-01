@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ie_quicklaunch_01">
+    <title>Закрепление значка Internet Explorer на начальном экране</title>
+    <shortdesc>Вы можете закрепить значок запуска Internet Explorer на начальном экране Windows (или
+        в области быстрого запуска меню <b>Пуск</b>).</shortdesc>
+    <taskbody>
+        <context>Начальный экран Windows - это вариант интерфейса для быстрого запуска приложений, в
+            котором значки приложений оформлены в виде плиток и расположены по всему экрану (см.
+            изображение ниже).<fig id="fig_s41_zfr_5pb">
+                <image href="../img/start_screen.png" id="image_lrl_zfr_5pb"/>
+            </fig><fig id="fig_yzj_vdr_5pb">
+                <p>Такой интерфейс по умолчанию включён на сенсорных устройствах</p>
+                <p>Область быстрого запуска меню <b>Пуск</b> также содержит крупные значки,
+                    позволяющие запускать часто используемые приложения (на изображении эти значки
+                    расположены справа).<fig id="fig_y4y_dgr_5pb">
+                        <image href="../img/start_screen_menu.png" id="image_tnq_2gr_5pb"/>
+                        <p>Такой интерфейс по умолчанию включён на стационарных компьютерах и
+                            ноутбуках (т. е. там, где подразумевается ввод с клавиатуры).<note
+                                id="note_gs2_tgr_5pb">В настоящем руководстве для наглядности
+                                приведён пример размещения значка Internet Explorer в области
+                                быстрого запуска.</note></p>
+                    </fig></p>
+            </fig></context>
+        <steps>
+            <step>
+                <cmd>Щёлкните на значке <image href="../img/start_icon.png" id="image_qhr_w5q_5pb"/>
+                        (<b>Пуск</b>) в левом нижнем углу экрана.</cmd>
+                <stepresult>Отобразится содержимое меню <b>Пуск </b>(см. изображение ниже).<fig
+                        id="fig_bcm_fwq_5pb">
+                        <image href="../img/start_menu.png" id="image_ej1_gwq_5pb"/>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>В списке меню слева выберите <b>Стандартные - Windows</b>.</cmd>
+                <info>
+                    <fig id="fig_l1v_cxq_5pb">
+                        <image href="../img/ie_manual_search.png" id="image_pks_dxq_5pb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Щёлкните правой кнопкой мыши на пункте <b>Internet Explorer</b> и выберите
+                        <b>Закрепить на начальном экране</b> (см. изображение ниже).</cmd>
+                <info>
+                    <fig id="fig_gqh_khr_5pb">
+                        <image href="../img/pin_to_start_screen.png" id="image_dfh_mhr_5pb"/>
+                    </fig>
+                </info>
+                <stepresult>Значок <b>Internet Explorer</b> появится в области быстрого доступа меню
+                        <b>Пуск</b> (см. изображение ниже).<fig id="fig_azr_4hr_5pb">
+                        <image href="../img/start_menu_tile.png" id="image_k25_rhr_5pb"/>
+                    </fig></stepresult>
+            </step>
+        </steps>
+        <result id="result_x5f_vhr_5pb">Теперь вы можете запускать браузер Internet Explorer одним
+            щелчком из меню <b>Пуск</b>.</result>
+    </taskbody>
+</task>

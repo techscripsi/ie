@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ie_quicklaunch_02">
+    <title>Закрепление значка Internet Exporer на панели задач</title>
+    <shortdesc>Вы можете закрепить значок Internet Explorer на панели задач.</shortdesc>
+    <taskbody>
+        <context>Чтобы закрепить значок Internet Explorer на панели задач, выполните следующие
+            действия.</context>
+        <steps>
+            <step>
+                <cmd>Щёлкните на значке <image href="../img/start_icon.png" id="image_qhr_w5q_5pb"/>
+                        (<b>Пуск</b>) в левом нижнем углу экрана.</cmd>
+                <stepresult>Отобразится содержимое меню <b>Пуск </b>(см. изображение ниже).<fig
+                        id="fig_bcm_fwq_5pb">
+                        <image href="../img/start_menu.png" id="image_ej1_gwq_5pb"/>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>В списке меню слева выберите <b>Стандартные - Windows</b>.</cmd>
+                <info>
+                    <fig id="fig_l1v_cxq_5pb">
+                        <image href="../img/ie_manual_search.png" id="image_pks_dxq_5pb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Щёлкните правой кнопкой мыши на пункте <b>Internet Explorer</b> и выберите
+                        <b>Дополнительно > Закрепить на панели задач</b> (см. изображение
+                    ниже).</cmd>
+                <info>
+                    <fig id="fig_zdc_f3r_5pb">
+                        <image href="../img/pin_to_task_panel.png" id="image_wrw_h3r_5pb"/>
+                    </fig>
+                </info>
+                <stepresult>Значок Internet Explorer отобразится на панели задач (см. изображение
+                        ниже).<fig id="fig_m3c_m3r_5pb">
+                        <image href="../img/task_panel_icon.png" id="image_mbh_r3r_5pb"/>
+                    </fig></stepresult>
+            </step>
+        </steps>
+        <result id="result_vpy_r3r_5pb">Теперь вы можете запускать браузер Internet Explorer одним
+            щелчком из панели задач Windows.</result>
+    </taskbody>
+</task>

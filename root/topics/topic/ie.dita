@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<?xml-stylesheet type="text/css" href="https://www.oxygenxml.com/doc/versions/23.1/ug-editor/topics/dita-map-edit-output-x-publishing.html" title="test" alternate="no"?>
+<topic id="ie">
+    <title>Варианты запуска</title>
+    <body>
+        <p>Запустить Internet Explorer можно несколькими способами. В настоящем разделе представлены
+            процедуры, следуя которым вы сможете запустить Internet Explorer на компьютере под
+            управлениям Windows 10.</p>
+    </body>
+</topic>

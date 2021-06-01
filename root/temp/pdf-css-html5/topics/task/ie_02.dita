@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /D:\Downloads\DITA\Test\root\temp\pdf-css-html5\topics\task?><?workdir-uri file:/D:/Downloads/DITA/Test/root/temp/pdf-css-html5/topics/task/?><?path2project ..\..\?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="ie_02" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="task:1;3:18" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="title:1;4:12">Запуск из меню «Пуск»</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="shortdesc:1;5:16"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="cmd:1;12:22">Шаг 1</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="stepresult:1;13:29">Результат</stepresult>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="cmd:2;16:22">Шаг 2</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/D:/Downloads/DITA/Test/root/topics/task/ie_02.dita" xtrc="stepresult:2;17:29">Результат шага 2</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

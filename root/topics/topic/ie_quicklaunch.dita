@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ie_quicklaunch">
+    <title>Настройка быстрого запуска</title>
+    <body>
+        <p>Помимо способов запуска Internet Explorer, которые доступны в операционной системе
+            Windows 10 по умолчанию, существует возможсность настроить быстрые способы запуска
+            Internet Explorer:<ul id="ul_mdr_rzq_5pb">
+                <li>с начально экрана Windows (или из области быстрого запуска меню
+                    <b>Пуск</b>);</li>
+                <li>из панели задач Windows.</li>
+            </ul></p>
+    </body>
+</topic>
