@@ -18,7 +18,7 @@
                 </info>
             </step>
             <step>
-                <cmd>Наклавиатуре нажмите на клавишу ВВОД.</cmd>
+                <cmd>На клавиатуре нажмите на клавишу ВВОД.</cmd>
                 <stepresult>Отобразится окно командной строки (см. изображение ниже).<fig
                         id="fig_ytk_fyq_5pb">
                         <image href="../img/command_line_empty.png" id="image_olz_gyq_5pb"/>
